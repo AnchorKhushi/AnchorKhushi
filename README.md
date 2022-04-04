@@ -8,8 +8,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/khusshisingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lifeofmrparmar" height="30" width="40" /></a>
-<a href="https://instagram.com/anchor_khushi_singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lifeofmrparmar" height="30" width="40" /></a>
+ <a href="https://instagram.com/anchor_khushi_singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anchor_khushi_singh" height="30" width="40" /></a>
+<a href="https://twitter.com/khusshisingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="khusshisingh" height="30" width="40" /></a>
 </p>
  
  ## Events
