@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+<h1 align="center">Hi 👋, I'm Khushi Singh</h1>
+<h3 align="center">A passionate 🎙️ Emcee | Anchor | Host 🎤  from 📍 Surat, Gujarat.</h3>
 
-You can use the [editor on GitHub](https://github.com/AnchorKhushi/AnchorKhushi/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AnchorKhushi&label=Profile%20views&color=0e75b6&style=flat" alt="mayur2997" /> </p> 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- 📫 How to reach me **khushi07052000@gmail.com**
+ 
 
-### Markdown
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+ <a href="https://instagram.com/anchor_khushi_singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anchor_khushi_singh" height="30" width="40" /></a>
+<a href="https://twitter.com/khusshisingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="khusshisingh" height="30" width="40" /></a>
+</p>
+ 
+ ## Events
+ <p align="left">
+<img src="https://user-images.githubusercontent.com/102992018/161611406-5e51bcef-e981-425d-9dfa-099fbe00dc94.jpg" width="300px"> 
+<img src="https://user-images.githubusercontent.com/102992018/161611704-9e88fd85-02ae-4580-a3fb-7a0b54c5be80.jpg" width="300px"> 
+<img src="https://user-images.githubusercontent.com/102992018/161611529-30955745-d431-48ef-a2f9-7ae4e3cbd0fb.jpg" width="300px"> 
+<img src="https://user-images.githubusercontent.com/102992018/161611620-f16445a4-5d9c-46a7-a46d-35319c5a46c5.jpg" width="300px"> 
+<img src="https://user-images.githubusercontent.com/102992018/161611807-8703cbb0-7dc3-4b7b-8e57-9aa4c73a0388.jpg" width="300px"> 
+</p>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AnchorKhushi/AnchorKhushi/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
